@@ -1,0 +1,1 @@
+dd bs=1k count=170335 < /dev/zero > media/ra92.dsk
